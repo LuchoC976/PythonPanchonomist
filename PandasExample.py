@@ -20,7 +20,7 @@ print("Numpy array: ")
 print(df2)
 
 # Open .csv files
-datafile = pd.read_csv("~/Desktop/MainDesktop/PythonScripts/Clase3/consumers-price-index-June-2021-quarter-index-numbers.csv")
+datafile = pd.read_csv("~/consumers-price-index-June-2021-quarter-index-numbers.csv")
 
 print("CSV File head: ")
 print(datafile.head()) 
